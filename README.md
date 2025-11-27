@@ -14,3 +14,6 @@
 ```bash
 python reports.py --files employees1.csv employees2.csv --report performance
 ```
+
+## Пример работы
+![img.png](img.png)
